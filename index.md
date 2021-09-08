@@ -12,4 +12,4 @@ Once you've changed the `token` and `ip` variables, you can now start your bot.
 
 ## FAQ
 ### Where do I find my Discord bot token?
-Head over to this blog post to learn how to set-up a Discord application with a bot, and locating your Discord bot token.
+Head over to [this blog post](https://www.sheldonjsmith.com/2021/07/20/creating-discord-bot.html) to learn how to set-up a Discord application with a bot, and locating your Discord bot token.
