@@ -4,10 +4,11 @@
 * [FAQ](#faq)
 
 ## Dependencies
-Discord.js v12 or later
-Nodejs latest stable build
+Nodejs (latest stable build)
+Discord.js v12 (or later)
 
 ## Installation and Set-up
+### Bot Set-up
 Download the master and extract the contents into a folder on the computer/server you intend on using to host your bot.
 Fill the following lines from the `config.json` file:
 ```
@@ -17,6 +18,12 @@ Fill the following lines from the `config.json` file:
 }
 ```
 Once you've changed the `token` and `ip` variables, you can now start your bot.
+
+### Nodejs Installation
+
+
+### Discord.js Installation
+
 
 ## FAQ
 ### Which library does this bot use?
