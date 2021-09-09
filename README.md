@@ -1,3 +1,12 @@
+## Table of Contents
+* [Dependencies](#dependencies)
+* [Installation and Set-up](#installation-and-set-up)
+* [FAQ](#faq)
+
+## Dependencies
+Discord.js v12 or later
+Nodejs latest stable build
+
 ## Installation and Set-up
 Download the master and extract the contents into a folder on the computer/server you intend on using to host your bot.
 Fill the following lines from the `config.json` file:
