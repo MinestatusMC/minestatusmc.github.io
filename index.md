@@ -3,7 +3,6 @@ Download the master and extract the contents into a folder on the computer/serve
 Fill the following lines from the `config.json` file:
 ```
 {
-    "prefix":"-",
     "token":"YOUR DISCORD BOT TOKEN",
     "ip":"YOUR MINECRAFT SERVER IP"
 }
