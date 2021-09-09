@@ -11,7 +11,7 @@ Once you've changed the `token` and `ip` variables, you can now start your bot.
 
 ## FAQ
 ### Which library does this bot use?
-The bot was developed using discord.js v12. We haven't tested this on any other version, so we cannot guarentee that the bot will function as intended on older versions of discord.js, however we do plan to test on newer versions of discord.js as they become available.
+The bot was developed using [discord.js](https://discord.js) v12 and has been tested on v13. We haven't tested this on any other version, so we cannot guarentee that the bot will function as intended on older versions of discord.js, however we do plan to test on newer versions of discord.js as they become available.
 
 ### Where do I find my Discord bot token?
 Head over to [this blog post](https://www.sheldonjsmith.com/2021/07/20/creating-discord-bot.html) to learn how to set-up a Discord application with a bot, and locating your Discord bot token.
