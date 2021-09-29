@@ -5,13 +5,23 @@
 
 ## Dependencies
 * [Nodejs](https://nodejs.org/) (latest stable build)
+* [Node Package Manager (npm)](https://www.npmjs.com/) (latest stable build)
 * [Discord.js](https://discord.js.org) v12 (or later)
+* [Fetch](
 
 ## Installation and Set-up
+Please install the below in order otherwise you will experience errors when trying to complete all installations.
+
 ### Nodejs Installation
 
 
+### Node Package Manager (npm) Installation
+
+
 ### Discord.js Installation
+
+
+### Fetch Installation
 
 
 ### Bot Set-up
