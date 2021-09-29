@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 # Introduction
 This bot is barebones and doesn't contain any additional features. We intend on releasing an advanced version of this bot with more features and slightly different functionality.
 
