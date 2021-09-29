@@ -1,30 +1,33 @@
-## Table of Contents
+# Introduction
+This bot is barebones and doesn't contain any additional features. We intend on releasing an advanced version of this bot with more features and slightly different functionality.
+
+# Table of Contents
 * [Dependencies](#dependencies)
 * [Installation and Set-up](#installation-and-set-up)
 * [FAQ](#faq)
 
-## Dependencies
+# Dependencies
 * [Nodejs](https://nodejs.org/) (latest stable build)
 * [Node Package Manager (npm)](https://www.npmjs.com/) (latest stable build)
 * [Discord.js](https://discord.js.org) v12 (or later)
 * [Fetch](
 
-## Installation and Set-up
+# Installation and Set-up
 Please install the below in order otherwise you will experience errors when trying to complete all installations.
 
-### Nodejs Installation
+## Nodejs Installation
 
 
-### Node Package Manager (npm) Installation
+## Node Package Manager (npm) Installation
 
 
-### Discord.js Installation
+## Discord.js Installation
 
 
-### Fetch Installation
+## Fetch Installation
 
 
-### Bot Set-up
+# Bot Set-up
 Download the master and extract the contents into a folder on the computer/server you intend on using to host your bot.
 Fill the following lines from the `config.json` file:
 ```
@@ -35,12 +38,12 @@ Fill the following lines from the `config.json` file:
 ```
 Once you've changed the `token` and `ip` variables, you can now start your bot.
 
-## FAQ
-### Which library does this bot use?
+# FAQ
+## Which library does this bot use?
 The bot was developed using [Discord.js](https://discord.js.org) v12 and has been tested on v13. We haven't tested this on any other version, so we cannot guarentee that the bot will function as intended on older versions of Discord.js, however we do plan to test on newer versions of Discord.js as they become available.
 
-### Where do I find my Discord bot token?
+## Where do I find my Discord bot token?
 Head over to [this blog post](https://www.sheldonjsmith.com/2021/07/20/creating-discord-bot.html) to learn how to set-up a Discord application with a bot, and locating your Discord bot token.
 
-### How often will this bot be updated?
+## How often will this bot be updated?
 Ideally, only when aspects of this bot become deprecated in newer versions of discord.js however if you are experiencing difficulties that you believe to be caused by the bot's code, please open an issue or email [support@minestatus.xyz](mailto:support@minestatus.xyz).
