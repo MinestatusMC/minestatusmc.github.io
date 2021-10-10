@@ -15,22 +15,32 @@ This bot is barebones and doesn't contain any additional features. We intend on 
 * [Nodejs](https://nodejs.org/) (latest stable build)
 * [Node Package Manager (npm)](https://www.npmjs.com/) (latest stable build)
 * [Discord.js](https://discord.js.org) v12 (or later)
-* [Fetch](
+* [Fetch](https://www.npmjs.com/package/node-fetch) (latest stable build)
 
 # Installation and Set-up
 Please install the below in order otherwise you will experience errors when trying to complete all installations.
 
-## Nodejs Installation
+## Nodejs & npm Installation
 
+### Linux
+[Linuxize Guide](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
 
-## Node Package Manager (npm) Installation
-
+### Windows
+[Guru99 Guide](https://www.guru99.com/download-install-node-js.html)
 
 ## Discord.js Installation
+Now that you have nodejs and npm installed, open up a command prompt (Windows) or terminal (macOS or Linux) window and navigate to the directory you'd like to use as the directory all of the bot's files will be stored in.
 
+Run the following commands:
+
+`npm init`
+
+`npm install discord.js`
 
 ## Fetch Installation
+Run the below command:
 
+`npm install fetch`
 
 # Bot Set-up
 Download the master and extract the contents into a folder on the computer/server you intend on using to host your bot.
