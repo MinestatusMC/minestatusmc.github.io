@@ -18,6 +18,8 @@ This bot is barebones and doesn't contain any additional features. We intend on 
 * [Fetch](https://www.npmjs.com/package/node-fetch) (latest stable build)
 
 # Installation and Set-up
+Download the bot and config files [here](/bot/).
+
 Please install the below in order otherwise you will experience errors when trying to complete all installations.
 
 ## Nodejs & npm Installation
