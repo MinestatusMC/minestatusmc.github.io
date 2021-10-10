@@ -60,7 +60,7 @@ Once you've changed the `token` and `ip` variables, you can now start your bot.
 The bot was developed using [Discord.js](https://discord.js.org) v12 and has been tested on v13. We haven't tested this on any other version, so we cannot guarentee that the bot will function as intended on older versions of Discord.js, however we do plan to test on newer versions of Discord.js as they become available.
 
 ## Where do I find my Discord bot token?
-Head over to [this blog post](https://www.sheldonjsmith.com/2021/07/20/creating-discord-bot.html) to learn how to set-up a Discord application with a bot, and locating your Discord bot token.
+Head over to [this blog post](#) to learn how to set-up a Discord application with a bot, and locating your Discord bot token.
 
 ## How often will this bot be updated?
 Ideally, only when aspects of this bot become deprecated in newer versions of discord.js however if you are experiencing difficulties that you believe to be caused by the bot's code, please open an issue or email [support@minestatus.xyz](mailto:support@minestatus.xyz).
